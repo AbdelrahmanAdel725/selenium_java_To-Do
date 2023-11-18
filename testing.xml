@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SUITE 1">
+    <test name="Test 1">
+        <classes>
+            <class name="com.qacart.todo.tastcases.LoginTest"/>
+            <class name="com.qacart.todo.tastcases.TodoTest"/>
+        </classes>
+    </test>
+</suite>
